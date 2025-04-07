@@ -16,9 +16,7 @@ React.js (Vite)	Node.js, Express.js	MySQL
 📊 Track application status (Applied, Interview, Offer, Rejected).
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 Student-Job-Tracker/
 ├── client/              # Frontend (React + Vite)
 │   └── src/
